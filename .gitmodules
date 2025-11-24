@@ -1,0 +1,3 @@
+[submodule "example-without-submodules"]
+	path = example-without-submodules
+	url = git@github.com:GrahamDennis/example-without-submodules
